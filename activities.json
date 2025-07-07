@@ -1,0 +1,43 @@
+{
+    "activities": [
+        {
+            "name": "EduNitor",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-16 23:19:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2025-04-16 23:19:05"
+                }
+            ]
+        },
+        {
+            "name": "github.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-16 23:19:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2025-04-16 23:19:10"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2025-04-16 23:19:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2025-04-16 23:19:11"
+                }
+            ]
+        }
+    ]
+}
